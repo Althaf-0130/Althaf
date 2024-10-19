@@ -1,5 +1,5 @@
-![logo](https://drive.google.com/file/d/1IWvtBeGwzUtcp0RJtxlCMrQqgwXFOVSi/view?usp=sharing)
-<h1 align="center">Hi 👋, I'm Althaf Hussain</h1>
+![logo](https://github.com/Althaf-0130/Althaf/blob/main/Screenshot%202024-10-19%20102455.png)
+<h1 align="center">
 <h3 align="center">A passionate software Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=althaf-0130&label=Profile%20views&color=0e75b6&style=flat" alt="althaf-0130" /> </p>
